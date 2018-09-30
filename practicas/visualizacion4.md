@@ -6,7 +6,7 @@ Los datos provienen de la hoja [lista de municipios](../ESTADISTICA/new 1.html)
 Se van a obtener con WebScraping mediante la función leerPoblaciones() del [fichero JavaScript](../ESTADISTICA/leerUniversidades.js)
 Para ello abrir la consola (F12) de la lista de municipios y pegar la definición de la función. Ejecutar a continuación la función y copiar el resultado (la consola de Google Chrome, inserta un botón Copy al final del listado de datos).
 
-Los datos obtenidos se guardan como JSON en un fichero de nombre [pobData.js](../geocoordenadas/pobData.js). Para poder usar directamente el array en una variable, añadir por delante de dicho array el texto: "obj="
+Los datos obtenidos se guardan como JSON en un fichero de nombre [pobData.js](../ESTADISTICA/objeto.js). Para poder usar directamente el array en una variable, añadir por delante de dicho array el texto: "obj="
 
 Para visualizar los datos, se utiliza la librería de [Google Chart](https://developers.google.com/chart/) y el tipo de gráfico [Scatter Chart](https://developers.google.com/chart/interactive/docs/gallery/scatterchart).
 El resultado es el que se muestra en la página [pobDataGoogle.html](../geocoordenadas/pobDataGoogle.html)
