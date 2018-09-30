@@ -1,4 +1,4 @@
-# Ejemplo 4 Visualización
+# Ejemplo  Miguel Visualización
 Se van a leer las coordenadas de una lista de Universidades de Organización industrial de España ( precio, plazas, nota de corte, provincia...) y se van a graficar en un gráfico en un mapa de España.
 
 Los datos provienen de la hoja [lista de Universidades](../ESTADISTICA/new1.html)
